@@ -10,6 +10,6 @@ terraform {
 provider "aviatrix" {
   controller_ip = "52.71.215.202"
   username      = "admin"
-  password      = ""
+  password      = "Aviatrix123#"
   version       = "2.20.0"
 }
